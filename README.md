@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Battery Charge / Discharge Relay Control — Arduino UNO
 
 An Arduino-based safety relay controller for **12 V battery charge and discharge testing**. The system monitors charging current, discharging current, and battery voltage in real time and activates a relay to disconnect the circuit when overcurrent or overvoltage conditions are detected — protecting the battery, equipment, and operator during lab testing.
@@ -204,3 +205,6 @@ MTech, Applied Mechanics | IIT Madras
 ## License
 
 This project is open-source under the [MIT License](LICENSE).
+=======
+# Arduino-Based-Battery-Charge-Discharge-Protection-System-Arduino-UNO-
+>>>>>>> 407fb5b84934eb7c5c5e870b70009af0dea3b034
